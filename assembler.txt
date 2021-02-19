@@ -1,0 +1,3 @@
+Num1: LDAA #5 ;caca ;sebo $d
+Num2: ADD $5 ;comentario           
+$76 LDAA $566 ;FSDF ;gG
